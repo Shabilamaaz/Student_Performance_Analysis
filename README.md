@@ -45,7 +45,7 @@ Total Columns: 33 features
 ```bash
 python student_analysis.py
 
-## ✅ Conclusion
+Conclusion
 This project helped me understand how student performance can be analyzed
 using real data. From the analysis, it is clear that factors like study time
 and attendance play an important role in final exam results. Working on this
